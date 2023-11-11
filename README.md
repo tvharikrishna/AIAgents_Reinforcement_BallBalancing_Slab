@@ -66,7 +66,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/tvharikrishna_reinforcementlearning-machinelearning-neuralnetwork-activity-7118597093476196352-Q_cM?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/Video-Watch AI Agent-blue" alt="Video"/>
+    <img src="https://img.shields.io/badge/Video-Watch How AI Slab is Balancing-blue" alt="Video"/>
   </a>
 </p>
 
