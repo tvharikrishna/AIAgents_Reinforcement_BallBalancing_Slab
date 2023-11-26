@@ -1,4 +1,8 @@
-# Reinforcement Ball Balancing Slab
+<div align="center">
+  <h1>Reinforcement Ball Balancing Slab</h1>
+</div>
+
+<br>
 
 <p align="center">
   <img src="data/0.png" alt="Project Logo Cover" width="1500"/>
@@ -8,7 +12,7 @@
 ---------------------------------------------
 
 
-## About this Project:
+##  ★ About this Project:
 The project depicted in the image involves the development of a ball balancing slab system utilizing a reinforcement learning agent. It's an artificial intelligence application programmed in C# and implemented with the Unity game engine.
 
 <p align="center">
@@ -19,7 +23,7 @@ The project depicted in the image involves the development of a ball balancing s
 ---------------------------------------------
 
 
-## Game Rules:
+##  ★ Game Rules:
 The project is designed to demonstrate a reinforcement learning (RL) scenario where an AI agent is tasked with balancing a ball on a slab. The agent receives a small positive reward incrementally for each time step that the ball stays on the slab, encouraging the agent to learn strategies for maintaining balance. Conversely, a negative reward is given when the ball falls off, which helps the agent to learn from its mistakes and avoid actions leading to such an outcome. The control mechanism allows the slab to be rotated along two axes, which adds complexity to the task and requires the agent to develop a nuanced understanding of the physics involved.
 
 <p align="center">
@@ -30,14 +34,14 @@ The project is designed to demonstrate a reinforcement learning (RL) scenario wh
 ---------------------------------------------
 
 
-## What is Proximal Policy Optimization (PPO):
+##  ★ What is Proximal Policy Optimization (PPO):
 Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement learning which alternates between sampling data through interaction with the environment and optimizing a "surrogate" objective function using stochastic gradient ascent. Developed by OpenAI, PPO aims to improve upon the stability and sample efficiency of previous methods like Trust Region Policy Optimization (TRPO) but with simpler implementation and better general performance.
 
 
 ---------------------------------------------
 
 
-## Key aspects of  include:
+##  ★ Key aspects of  include:
 
     • Clipped Objective: Limits policy updates to prevent excessive changes.
     • Multiple Updates: Allows several mini-batch updates per data sample for better efficiency.
@@ -52,7 +56,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
 ---------------------------------------------
 
 
-## Results:
+##  ★ Results:
 
 <p align="center">
   <img src="data/4.png" alt="4" width="1500"/>
@@ -62,7 +66,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
 ---------------------------------------------
 
 
-## My Project Video Demonstration:
+##  ★ My Project Video Demonstration:
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/tvharikrishna_reinforcementlearning-machinelearning-neuralnetwork-activity-7118597093476196352-Q_cM?utm_source=share&utm_medium=member_desktop">
